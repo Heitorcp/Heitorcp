@@ -2,7 +2,7 @@
 
 <h3> 🛠 &nbsp;Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,anaconda,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,aws,gcp,docker)](https://skillicons.dev)
 
 <!--
 **Heitorcp/Heitorcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
